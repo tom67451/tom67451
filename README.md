@@ -24,9 +24,7 @@ Building my personal site & cool side projects.
 
 ###
 
-<div align="left">
-   <a src="www.linkedin.com/in/tomáš-keřka-57b2532b4"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+
   
 </div>
 
